@@ -1,7 +1,7 @@
 # SpamOSN-Shivali
 Spam Detection in online Social Networks- By: Raghu Tak (16535031), Renuka Sharma (16535035), Shivali Sharma (16535037)
 
-We are using Facebook as the online social network and have got teh data for spam and normal users.
+We are using Facebook as the online social network and have got the data for spam and normal users.
 We have implemented 3 approaches for spam detection and are calculating the accuracy for each of the approaches. The approaches are:
 1. Naive Bayesian Classification
 2. kMeans clustering
